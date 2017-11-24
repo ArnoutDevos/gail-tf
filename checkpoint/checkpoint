@@ -1,2 +1,2 @@
-model_checkpoint_path: "trpo_gail.HumanoidFeaturized.g_step_3.d_step_1.policy_entcoeff_0.adversary_entcoeff_0.001-710"
-all_model_checkpoint_paths: "trpo_gail.HumanoidFeaturized.g_step_3.d_step_1.policy_entcoeff_0.adversary_entcoeff_0.001-710"
+model_checkpoint_path: "trpo_gail.HumanoidFeaturized.g_step_3.d_step_1.policy_entcoeff_0.adversary_entcoeff_0.001-720"
+all_model_checkpoint_paths: "trpo_gail.HumanoidFeaturized.g_step_3.d_step_1.policy_entcoeff_0.adversary_entcoeff_0.001-720"
