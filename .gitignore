@@ -7,7 +7,7 @@ MUJOCO_LOG.TXT
 
 # TensorFlow checkpoints and logs
 log/
-checkpoint/
+#checkpoint/
 
 # Pickle files
 *.pkl
